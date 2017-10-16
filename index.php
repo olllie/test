@@ -66,7 +66,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 
             <img class="oa-logo"src="img/oa-logo.jpg" alt="Logo">
             <h3 class="pink-text"><b>Ollie Allen</b> is a digital designer based in Hampshire, UK </h3>
-            <p>Website under construction. Please check back soon.<p/>
+            <p>Welcome. Please check back soon for updates.<p/>
             <div class="line-2-grey"></div>
 
 
